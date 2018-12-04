@@ -16,6 +16,8 @@ step5: ./pesq ref.wav enh.wav +16000
 The trained DNN model on TIMTI training set which can bring the PESQ upto 4.4 on TIMIT test set: 
 https://drive.google.com/file/d/1MtW2e1-9A5whiwJemc9VQnKTFV9L10bY/view
 
+https://doc-0c-74-docs.googleusercontent.com/docs/securesc/oe2ljl52r1hfh6uepkcv7p0ueku5dma4/p0qcv3eeo56cnb54e89lcdp7ma7s2aa1/1543917600000/10772721672415841223/08628925364679730404/1MtW2e1-9A5whiwJemc9VQnKTFV9L10bY?e=download&nonce=cs9nmp4hmp4q4&user=08628925364679730404&hash=nitm4o0cqkll5jm02d88pdprsg78rrth
+
 The training loss can be as low as "zero"!!!!
 880564/880564 [==============================] - 39s - loss: 0.1572 - val_loss: 0.0854
 Epoch 2/10000
